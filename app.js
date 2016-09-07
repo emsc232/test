@@ -5,7 +5,7 @@
 
 function Shape(x,y){
   stroke(0,255,0,255);
-  fill(0,100,150,255);
+  fill(0,100,160,255);
   rect(x+50,y, 50, 50);
   rect(x,y+50, 50, 50);
   rect(x+35,y+35, 20, 20);
